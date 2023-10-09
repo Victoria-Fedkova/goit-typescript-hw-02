@@ -5,6 +5,4 @@
 
 let union: string | number;
 
-type IsActive = "enable" | "disable";
-
-let literal: IsActive;
+let literal: "enable" | "disable";
